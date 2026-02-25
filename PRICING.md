@@ -1,63 +1,83 @@
 # 💰 Pricing
 
-## Ultimate AI Prompt Pack
-**$19** (one-time)
+## AI Prompt Mastery - Complete System
 
 ---
 
-## 📦 What's Included
+## 🎯 One-Time Payment: $29
 
-| Feature | Value |
-|---------|-------|
-| 100+ Premium Prompts | $197 |
-| Industry-Specific Templates | $47 |
-| Lifetime Updates | $47 |
-| **Total Value** | **$291** |
+### What You're Getting
 
-**You Pay: $19** 🤑
+| Package | Value | What's Included |
+|---------|-------|-----------------|
+| **Core Templates** | $29 | 50+ premium prompt templates |
+| **Industry Packs** | $47 | 7 industry-specific bundles |
+| **Mastery Course** | $97 | 7 modules, frameworks, guides |
+| **Lifetime Updates** | $49 | New prompts monthly |
+| **Bonus Resources** | $47 | Checklists, quick reference cards |
 
----
+### Total Value: $273
 
-## 🎯 Who Is This For?
-
-- 📝 Content Creators
-- 💼 Business Owners  
-- 💻 Developers
-- 🎓 Students
-- 📱 Social Media Managers
-- 🏢 Agencies
+### You Pay: $29 🤑
 
 ---
 
-## 💳 How to Buy
+## 💎 Premium Bundle: $49
 
-1. Visit our Gumroad/website
+Everything in standard plus:
+- ✅ Priority support
+- ✅ Custom template requests (3/month)
+- ✅ Early access to new releases
+- ✅ Private community access
+- ✅ 1-on-1 onboarding call
+
+---
+
+## 📦 Enterprise: Custom
+
+For agencies and teams:
+- Unlimited template usage
+- Custom integrations
+- Dedicated account manager
+- Team training sessions
+
+Contact for pricing
+
+---
+
+## 🛒 How to Buy
+
+1. Visit: [YOUR GUMROAD/LINK]
 2. Click "Buy Now"
-3. Instant download
-4. Start using immediately!
+3. Pay $29
+4. Download instantly
+5. Start using in 5 minutes
 
 ---
 
-## ❓ FAQ
+## ✅ Guarantee
 
-**Q: Do I need ChatGPT Plus?**
-A: No! These prompts work with free ChatGPT too.
+**30-Day Money-Back Guarantee**
 
-**Q: Can I use for client work?**
-A: Yes! Commercial license included.
-
-**Q: Refund policy?**
-A: 30-day money-back guarantee.
+If you're not getting better AI results within 30 days, get a full refund. No questions asked.
 
 ---
 
-## ⚡ Quick Start
+## ⚡ Limited Time
 
-1. Download the pack
-2. Pick a category
-3. Copy → Paste → Customize
-4. Done!
+- Regular price: $97
+- Launch price: $29
+- Price increases soon
 
 ---
 
-*Questions? Contact support*
+## 💳 Payment Methods
+
+- Credit/Debit Card (Stripe)
+- PayPal
+- Apple Pay
+- Google Pay
+
+---
+
+*Questions? Contact support before buying*
