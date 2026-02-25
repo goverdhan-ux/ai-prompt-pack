@@ -1,0 +1,59 @@
+{
+  "product": "Ultimate AI Prompt Pack",
+  "price": 19,
+  "categories": [
+    {
+      "name": "Content Creation",
+      "prompts": [
+        "Blog Post Generator",
+        "Social Media Caption Creator",
+        "Email Sequence Writer",
+        "Product Description Wizard"
+      ]
+    },
+    {
+      "name": "Business",
+      "prompts": [
+        "Business Plan Outline",
+        "Marketing Strategy Builder",
+        "Customer Persona Creator",
+        "SEO Content Brief"
+      ]
+    },
+    {
+      "name": "Developer",
+      "prompts": [
+        "Code Review",
+        "Bug Fixer",
+        "Documentation Writer",
+        "Database Schema Designer"
+      ]
+    },
+    {
+      "name": "Creative",
+      "prompts": [
+        "Story Idea Generator",
+        "Character Development",
+        "Video Script Writer"
+      ]
+    },
+    {
+      "name": "Social Media",
+      "prompts": [
+        "Twitter Thread Creator",
+        "LinkedIn Post Generator"
+      ]
+    },
+    {
+      "name": "Data & Analytics",
+      "prompts": [
+        "Excel Formula Generator",
+        "Dashboard Ideas"
+      ]
+    }
+  ],
+  "totalPrompts": 20,
+  "formats": ["Markdown", "Text", "JSON"],
+  "license": "Commercial",
+  "includes": ["Lifetime Updates", "New Prompts Monthly"]
+}
